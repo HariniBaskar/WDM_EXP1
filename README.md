@@ -1,8 +1,9 @@
-### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
-### AIM: 
+# EX1: Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
+# DATE: 15-2-2024
+# NAME AND REGISTER NUMBER: HARINI B. 212221230035
+# AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
-### PROCEDURE: 
+# PROCEDURE: 
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
 
@@ -52,12 +53,14 @@ rainy,75.0,80.0,false,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows employee table on weka.
 
-### OUTPUT:
+# OUTPUT:
+## EMPLOYEE DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/7da01a33-34f9-4272-a9d9-ef00418c2031)
+## WEATHER DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/6d3b4eb9-74e0-4edf-883e-c75749bc4eb1)
 
-
-
-### PREPROCESSING
-### Procedure:
+# PREPROCESSING
+## Procedure:
 #### 1) Add -> Pre-Processing Technique:
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
 2) Click on explorer.
@@ -74,7 +77,12 @@ rainy,75.0,80.0,false,yes
 13) Save the file.
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
-### OUTPUT:
+# OUTPUT:
+## EMPLOYEE DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/a6a21d34-123c-4a57-88fd-711613c1315b)
+## WEATHER DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/3c3ae36d-4469-4169-b9ee-7adc7234da7b)
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -90,7 +98,12 @@ rainy,75.0,80.0,false,yes
 10) Click Remove button and then Save.
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
-### OUTPUT:
+# OUTPUT:
+## EMPLOYEE DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/c74cb57d-222d-40d6-97b8-d3c30ae748f1)
+## WEATHER DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/573c420e-fc61-4126-85c9-180f60b409da)
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -106,6 +119,12 @@ rainy,75.0,80.0,false,yes
 10) Click on Apply button and then Save.
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
-### OUTPUT:
+# OUTPUT:
+## EMPLOYEE DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/b7ae4825-7e09-4f3e-a165-317ab7287991)
+## WEATHER DATA
+![image](https://github.com/HariniBaskar/WDM_EXP1/assets/93427253/5b8f198a-854f-4417-9663-4b8ff99d6029)
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
